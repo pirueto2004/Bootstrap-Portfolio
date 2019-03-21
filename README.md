@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Portfolio created using Bootstrap layout
+Portfolio responsive using media queries
